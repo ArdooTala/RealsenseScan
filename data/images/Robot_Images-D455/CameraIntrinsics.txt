@@ -1,0 +1,5 @@
+Color #0 (Video Stream: BGR8 1280x720@ 30Hz)
+Principal Point         : 632.842, 384.501
+Focal Length            : 639.047, 638.394
+Distortion Model        : Inverse Brown Conrady
+Distortion Coefficients : [-0.0539716,0.0640259,-0.00157844,0.000280806,-0.0200516]

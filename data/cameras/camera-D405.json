@@ -1,0 +1,8 @@
+{
+  "model": "Realsense D405",
+  "Video Stream": "BGR8 1280x720@ 30Hz",
+  "Principal Point": [638.463, 359.37],
+  "Focal Length": [645.562, 644.367],
+  "Distortion Model": "Inverse Brown Conrady",
+  "Distortion Coefficients": [-0.0538538,0.0553352,0.000854676,0.000325904,-0.017446]
+}
