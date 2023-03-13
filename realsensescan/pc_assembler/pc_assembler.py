@@ -229,7 +229,7 @@ class PointCloudAssembler:
 
 if __name__ == "__main__":
     pc_ass = PointCloudAssembler("../../data/robot_files/GridScan_T_ROB1.mod", rows=3, cols=5)
-    pc_ass.capture_clouds("pcs")
+    pc_ass.capture_clouds("../../data/point_clouds")
     # pc_ass.load_point_clouds("pcs/20230310_174142")
     pc_ass.assemble_cloud()
     o3d.visualization.draw_geometries(pc_ass.pcs)
